@@ -3,4 +3,4 @@ A simple To-Do List to keep track of tasks, mark completed tasks, and delete tas
 # Technologies
 * HTML
 * CSS
-* Jquery
+* Javascript (Jquery)
